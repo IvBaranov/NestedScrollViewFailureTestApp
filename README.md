@@ -1,4 +1,4 @@
-NestedScrollViewFailureTestApp
+[FIXED]NestedScrollViewFailureTestApp
 ===============
 
 Fixed in v23.1.0
